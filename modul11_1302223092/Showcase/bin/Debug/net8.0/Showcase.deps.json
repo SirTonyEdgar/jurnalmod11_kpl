@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Showcase/1.0.0": {
+        "dependencies": {
+          "MatematikaLibraries": "1.0.0"
+        },
+        "runtime": {
+          "Showcase.dll": {}
+        }
+      },
+      "MatematikaLibraries/1.0.0": {
+        "runtime": {
+          "MatematikaLibraries.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Showcase/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MatematikaLibraries/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
